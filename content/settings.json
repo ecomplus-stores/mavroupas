@@ -1,23 +1,23 @@
 {
-  "store_id": 1236,
-  "name": "mavroupas",
   "domain": "mavroupas.netlify.app",
-  "short_name": "mavroupas",
-  "description": "mavroupas",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#8a0000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#8a0000",
+  "logo": "/img/uploads/mav_010101.png",
+  "name": "MAV Roupas Profissionais e Hospitalares ",
+  "short_name": "MAV Roupas",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/010101.png",
+  "country_code": "BR",
+  "secondary_color": "#701600",
+  "icon": "/img/uploads/mav_010101.png",
+  "store_id": 1236,
+  "description": "MAV Roupas Profissionais e Hospitalares \nA MAV, conceituada empresa no mercado de roupas profissionais, hospitalares e hotelaria vem construindo sua história desde o ano de 1986 ao lado de uma equipe própria e presente em todas as etapas do processo de produção, desde a confecção passando pela entrega do produto até a satisfação de seu cliente.",
+  "large_icon": "/img/uploads/mav_010101.png"
 }
