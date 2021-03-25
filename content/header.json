@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Compre sem sair de casa!",
+    "link": "/promotion",
+    "background": "#850505"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +11,24 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Política de Frete",
+        "link": "/pages/frete"
+      },
+      {
+        "title": "Política de Privacidade",
+        "link": "/pages/privacidade"
+      },
+      {
+        "title": "Trocas e Devoluções",
+        "link": "/pages/trocas"
+      },
+      {
+        "title": "Termos de Serviço",
+        "link": "/pages/serviço"
+      },
+      {
+        "title": "Formas de Pagamento",
+        "link": "/pages/pagamento"
       }
     ],
     "phone_wpp": true,
@@ -19,7 +36,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 2,
     "full_width": false
   },
   "search_input": true
