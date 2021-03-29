@@ -1,12 +1,12 @@
 {
   "domain": "mavroupas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#8a0000",
+  "primary_color": "#908989",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "clean-white"
   },
-  "bg_color": "#8a0000",
+  "bg_color": "#716f6f",
   "logo": "/img/uploads/mav_010101.png",
   "name": "MAV Roupas Profissionais e Hospitalares ",
   "short_name": "MAV Roupas",
