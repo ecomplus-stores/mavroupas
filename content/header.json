@@ -28,13 +28,13 @@
         "link": "/pages/pagamento"
       }
     ],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 4,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
