@@ -1,7 +1,7 @@
 {
   "domain": "mavroupas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#bd0000",
   "theme": {
     "bootswatch": "minty",
     "custom": "clean-gray"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/010101.png",
   "country_code": "BR",
-  "secondary_color": "#650101",
+  "secondary_color": "#a1a1a1",
   "icon": "/img/uploads/mav_010101.png",
   "store_id": 1236,
   "description": "MAV Roupas Profissionais e Hospitalares \nA MAV, conceituada empresa no mercado de roupas profissionais, hospitalares e hotelaria vem construindo sua história desde o ano de 1986 ao lado de uma equipe própria e presente em todas as etapas do processo de produção, desde a confecção passando pela entrega do produto até a satisfação de seu cliente.",
