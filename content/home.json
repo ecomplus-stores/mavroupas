@@ -7,13 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-04-12T18:30:50.685Z",
-          "end": "2021-04-12T18:30:50.703Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner3_3.jpg"
         },
         {
-          "start": "2021-04-12T18:34:04.566Z",
-          "end": "2021-04-12T18:34:04.592Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner2.jpg",
           "mobile_img": "/img/uploads/banner4.jpg"
         },
