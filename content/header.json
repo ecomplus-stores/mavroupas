@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "Compre sem sair de casa!",
     "link": "/promotion",
-    "background": "#850505"
+    "background": "#999999"
   },
   "contacts_stripe": {
     "pages": [
