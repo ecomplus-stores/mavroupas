@@ -1,9 +1,9 @@
 {
   "domain": "mavroupas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#d00101",
+  "primary_color": "#9c0202",
   "theme": {
-    "bootswatch": "cosmo",
+    "bootswatch": "flatly",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
