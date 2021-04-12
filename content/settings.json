@@ -4,7 +4,7 @@
   "primary_color": "#9c0202",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "clean-white"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/mav_010101.png",
