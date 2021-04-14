@@ -3,7 +3,7 @@
     "text": "Compre sem sair de casa!",
     "link": "/promotion",
     "background": "#999999",
-    "color": "#9d0101"
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -12,20 +12,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Política de Frete",
-        "link": "/pages/frete"
-      },
-      {
-        "title": "Política de Privacidade",
-        "link": "/pages/privacidade"
-      },
-      {
-        "title": "Trocas e Devoluções",
-        "link": "/pages/trocas"
-      },
-      {
-        "title": "Formas de Pagamento",
-        "link": "/pages/pagamento"
+        "title": "Contato",
+        "link": "mavroupasonline/pages/contato"
       }
     ],
     "phone_wpp": true,
@@ -33,8 +21,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 4,
-    "full_width": true
+    "random": 5,
+    "full_width": false
   },
   "search_input": true
 }
