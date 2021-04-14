@@ -9,11 +9,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner3_3.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner2.jpg",
           "mobile_img": "/img/uploads/banner4.jpg"
         },
@@ -27,7 +22,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
