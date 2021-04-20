@@ -30,7 +30,7 @@
       "collection_id": null,
       "limit": 14,
       "page": 2,
-      "sort": "slug"
+      "sort": null
     },
     {
       "type": "page-title",
