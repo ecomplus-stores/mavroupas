@@ -30,8 +30,8 @@
       "collection_id": null,
       "limit": 14,
       "page": 2,
-      "sort": "sales",
-      "title": "Mais Vendidos"
+      "sort": "views",
+      "title": ""
     },
     {
       "type": "page-title",
