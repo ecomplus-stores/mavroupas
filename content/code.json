@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media(min-width: 767px) {.btn.header__toggler {display: none}}",
   "html_head": "",
   "html_body": ""
 }
