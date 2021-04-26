@@ -1,8 +1,5 @@
 {
-  "sort_categories": [
-    "hospitalar",
-    "camisola"
-  ],
+  "sort_categories": [],
   "phone_wpp": true,
   "socials": true
 }
