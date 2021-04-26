@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#6e0202",
   "theme": {
-    "bootswatch": "lumen",
-    "custom": "clean-gray"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/mav_010101.png",
