@@ -5,6 +5,8 @@
   }
 }
 .header__nav a:hover {
-  background: #CF7D7D;
-  color: #fff
+  background: none;
+  color: #CF7D7D;
+  border-bottom: 1px solid #CF7D7D;
+  border-radius: 0px;
 }
