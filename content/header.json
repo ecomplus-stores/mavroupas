@@ -13,7 +13,7 @@
       },
       {
         "title": "Contato",
-        "link": "mavroupasonline/pages/contato"
+        "link": "/pages/contato"
       }
     ],
     "phone_wpp": true,
