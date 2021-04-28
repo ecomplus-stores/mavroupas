@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media(min-width: 767px) {\n.header__toggler {\n\ndisplay: none !important;\n}\n}\n.header__nav a:hover {\nbackground: none;\ncolor: #CF7D7D;\nborder-bottom: 1px solid #CF7D7D;\nborder-radius: 0px;\n}\n",
   "html_head": "",
   "html_body": ""
 }
