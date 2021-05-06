@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "Compre sem sair de casa!",
     "link": "/promotion",
-    "background": "#999999",
-    "color": "#000000"
+    "background": "#050505",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
