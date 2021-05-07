@@ -4,13 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 3000,
+      "autoplay": 6000,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner1.jpg",
-          "link": "/hospitalar"
+          "img": "/img/uploads/hospitalar.jpg",
+          "link": "/hospitalar",
+          "mobile_img": "/img/uploads/hospitalarmobile.jpg"
         },
         {
           "start": "",
