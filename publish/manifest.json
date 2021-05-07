@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.86fbe9f660fb23e027c199c778142223.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a7c0bbc8580d7a21e5c3e1ee0ebaa198.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2623a1c9f2c938a8424711ea24aa41d6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.287e4d2eb3c5b21580d2a9f188fbd426.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.efd10b4734638082f79721fef1947713.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MAV Roupas Profissionais e Hospitalares ",
+  "short_name": "MAV Roupas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "MAV Roupas Profissionais e Hospitalares \nA MAV, conceituada empresa no mercado de roupas profissionais, hospitalares e hotelaria vem construindo sua história desde o ano de 1986 ao lado de uma equipe própria e presente em todas as etapas do processo de produção, desde a confecção passando pela entrega do produto até a satisfação de seu cliente.",
+  "background_color": "#ffffff",
+  "theme_color": "#6e0202"
+}
