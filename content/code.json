@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width: 767px) {\n #logo {\n    max-height: 200px !important;\n  } \n  .header__toggler {\n display: none !important; \n } \n } \n .menu__list a:hover { \n background: #CF7D7D; \n color: #fff; \n }  .header__nav a:hover { \n background: none; \n color: #CF7D7D; \n border-bottom: 1px solid #CF7D7D; \n border-radius: 0px; \n } \n",
+  "css": "@media(min-width: 767px) {\n   .banner-slider {\n    max-width: 100%;\n    max-height: calc(80rem*var(--banner-aspect-ratio))\n  }\n #logo {\n    max-height: 200px !important;\n  } \n  .header__toggler {\n display: none !important; \n } \n } \n .menu__list a:hover { \n background: #CF7D7D; \n color: #fff; \n }  .header__nav a:hover { \n background: none; \n color: #CF7D7D; \n border-bottom: 1px solid #CF7D7D; \n border-radius: 0px; \n } \n",
   "html_head": "",
   "html_body": ""
 }
