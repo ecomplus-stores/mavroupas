@@ -4,8 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3000,
       "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner1.jpg",
+          "link": "/hospitalar"
+        },
         {
           "start": "",
           "end": "",
@@ -22,18 +28,12 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner5.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner1.jpg",
-          "link": "/hospitalar"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "collection-shelf",
