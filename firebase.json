@@ -2,7 +2,32 @@
   "hosting": {
     "redirects": [
       {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-verde-claro-p",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
         "source": "/hospitalar/robe/robe-mangas-japonesas-verde-claro-m",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-verde-claro-g",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-azul-claro-p",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+       {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-azul-claro-m",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+       {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-azul-claro-g",
         "destination": "/hospitalar/robe/robe-mangas-japonesas",
         "type": 301
       }
