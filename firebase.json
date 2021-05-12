@@ -17,6 +17,31 @@
         "type": 301
       },
       {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-verde-claro-gg",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-salmao-p",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-salmao-m",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-salmao-g",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-salmao-gg",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
         "source": "/hospitalar/robe/robe-mangas-japonesas-azul-claro-p",
         "destination": "/hospitalar/robe/robe-mangas-japonesas",
         "type": 301
@@ -28,6 +53,21 @@
       },
        {
         "source": "/hospitalar/robe/robe-mangas-japonesas-azul-claro-g",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-branco-p",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+       {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-branco-m",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      },
+       {
+        "source": "/hospitalar/robe/robe-mangas-japonesas-branco-g",
         "destination": "/hospitalar/robe/robe-mangas-japonesas",
         "type": 301
       }
