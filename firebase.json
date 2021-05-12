@@ -1,6 +1,11 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/hospitalar/robe/robe-mangas-japonesas*",
+        "destination": "/hospitalar/robe/robe-mangas-japonesas",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
