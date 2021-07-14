@@ -274,9 +274,20 @@ if (header.categories_list) {
       <% if (categories && categories.length) { %>
         <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
           <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
-            <% categories.forEach(({ slug, name }) => { %>
+            <% categories.forEach(({ slug, name, icon }) => { %>
               <a href="javascript:;" onclick="toggleSidenav('<%= slug %>')">
+                <% if(icon) { %>
+                  <span class="menu__item-icon">
+                    <img
+                      data-src="<%= icon.url %>"
+                      alt="<%= icon.alt || name %>"
+                      class="lozad"
+                      style="height: 40px;"
+                    >
+                    </span>
+                <% } else { %>
                 <%= ` ${name} ` %>
+                <% } %>
               </a>
             <% }) %>
           </nav>
