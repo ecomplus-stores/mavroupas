@@ -20,7 +20,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/hospitalar?HOSPITALAR",
+      "/profissional?PROFISSIONAL",
+      "/hotelaria?HOTELARIA",
+      "/casaestillo?CasaEstillo"
+    ],
     "random": 5,
     "full_width": true
   },
