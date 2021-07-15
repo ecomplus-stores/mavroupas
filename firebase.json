@@ -145,6 +145,31 @@
         "source": "/camisola-fechada-mangas-japonesas-em-cretone-liso-verde-claro-p",
         "destination": "/hospitalar/camisola/camisola-fechada-mangas-japonesas-em-cretone-liso-cores",
         "type": 301
+      },
+      {
+        "source": "/hospitalar/camisola-mangas-japonesas-em-percal-estampado-gg",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-percal-estampado",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/camisola-mangas-japonesas-em-percal-branco-p",
+        "destination": "/hospitalar/camisola/camisola-mangas-japosesas-em-percal-branco",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/camisola-mangas-japonesas-em-percal-branco-m",
+        "destination": "/hospitalar/camisola/camisola-mangas-japosesas-em-percal-branco",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/camisola-mangas-japonesas-em-percal-branco-g",
+        "destination": "/hospitalar/camisola/camisola-mangas-japosesas-em-percal-branco",
+        "type": 301
+      },
+      {
+        "source": "/hospitalar/camisola-mangas-japonesas-em-percal-branco-gg",
+        "destination": "/hospitalar/camisola/camisola-mangas-japosesas-em-percal-branco",
+        "type": 301
       }
     ],
     "public": "dist",
