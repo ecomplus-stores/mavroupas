@@ -170,6 +170,76 @@
         "source": "/hospitalar/camisola-mangas-japonesas-em-percal-branco-gg",
         "destination": "/hospitalar/camisola/camisola-mangas-japosesas-em-percal-branco",
         "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-438",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-443",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-463",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-508",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-585",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-costura-frontal",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-costura-frontal-469",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-costura-frontal-472",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-costura-frontal-563",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-costura-frontal-em-cretone-liso-azul-claro-g",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-em-cretone-liso-azul-claro-gg",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-em-cretone-liso-azul-claro-m",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
+      },
+      {
+        "source": "/camisola-mangas-japonesas-em-cretone-liso-azul-claro-p",
+        "destination": "/hospitalar/camisola/camisola-mangas-japonesas-em-cretone-liso-cores",
+        "type": 301
       }
     ],
     "public": "dist",
