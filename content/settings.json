@@ -1,5 +1,6 @@
 {
   "domain": "www.mavroupasonline.com.br",
+  "repository": "ecomplus-stores/mavroupas",
   "currency_symbol": "R$",
   "primary_color": "#6e0202",
   "theme": {
