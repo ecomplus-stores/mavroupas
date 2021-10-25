@@ -40,7 +40,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "605ceb0ca46e555927c53982:categories:HOSPITALAR:/hospitalar",
       "limit": 14,
       "page": 1,
