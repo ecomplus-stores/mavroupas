@@ -8,9 +8,9 @@
       "slides": [
         {
           "start": "2021-11-01T15:36:04.209Z",
-          "end": "2021-11-01T15:36:04.249Z",
+          "end": "",
           "img": "/img/uploads/topbebe.jpg",
-          "link": "https://www.mavroupasonline.com.br/hospitalar/suportebebe"
+          "link": "/hospitalar/suportebebe"
         },
         {
           "start": "",
@@ -30,7 +30,7 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/conjrelet.jpg",
-          "link": "/profissional"
+          "link": "/profissional/conjunto/conjunto-profissional-refletivos"
         },
         {
           "start": "",
