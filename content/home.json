@@ -45,13 +45,15 @@
       "enabled": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "605ceb0ca46e555927c53982:categories:HOSPITALAR:/hospitalar",
-      "limit": 14,
       "page": 1,
-      "sort": "news",
-      "title": ""
+      "title": "NOVOS PRODUTOS",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 14,
+      "collection_id": null,
+      "sort": "news"
     },
     {
       "type": "page-title",
