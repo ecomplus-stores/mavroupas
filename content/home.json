@@ -29,7 +29,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/conjrelet.jpg",
+          "img": "/img/uploads/banner4.jpg",
           "link": "/profissional/conjunto/conjunto-profissional-refletivos"
         },
         {
@@ -38,7 +38,8 @@
           "img": "/img/uploads/casa-estillo.jpg",
           "link": "https://www.casaestillo.com.br/"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
