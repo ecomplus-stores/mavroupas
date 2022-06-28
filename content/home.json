@@ -7,6 +7,12 @@
       "autoplay": 6000,
       "slides": [
         {
+          "start": "2022-06-28T19:50:04.021Z",
+          "end": "",
+          "link": "https://www.mavroupasonline.com.br/hotelaria/lencol/lencol-solteiro-liso-bege",
+          "img": "/img/uploads/lencolbege.jpg"
+        },
+        {
           "start": "2021-11-01T15:36:04.209Z",
           "end": "",
           "img": "/img/uploads/topbebe.jpg",
@@ -37,12 +43,6 @@
           "end": "",
           "img": "/img/uploads/casa-estillo.jpg",
           "link": "https://www.casaestillo.com.br/"
-        },
-        {
-          "start": "2022-06-28T19:50:04.021Z",
-          "end": "",
-          "link": "https://www.mavroupasonline.com.br/hotelaria/lencol/lencol-solteiro-liso-bege",
-          "img": "/img/uploads/lencolbege.jpg"
         }
       ],
       "full_width": true
