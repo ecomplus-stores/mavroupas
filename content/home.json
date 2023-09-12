@@ -57,7 +57,7 @@
       "enabled": false
     },
     {
-      "page": 2,
+      "page": 3,
       "title": "NOVOS PRODUTOS",
       "shuffle": false,
       "headless": false,
@@ -65,7 +65,7 @@
       "link": "",
       "limit": 24,
       "collection_id": null,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "page-title",
