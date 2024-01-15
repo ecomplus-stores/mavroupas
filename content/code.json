@@ -1,5 +1,5 @@
 {
   "css": "@media(min-width: 767px) {\n   .banner-slider {\n    max-width: 100%;\n    max-height: calc(100rem*var(--banner-aspect-ratio))\n  }\n #logo {\n    max-height: 90px !important;\n  } \n  .header__toggler {\n display: none !important; \n } \n } \n .menu__list a:hover { \n background: #CF7D7D; \n color: #fff; \n }  .header__nav a:hover { \n background: none; \n color: #CF7D7D; \n border-bottom: 1px solid #CF7D7D; \n border-radius: 0px; \n font-size: 18px;\n }.header__nav a {font-size: 1rem} \n",
   "html_head": "",
-  "html_body": "<script>\nwindow.ecomShippingApps = [1248, 1253]</script>"
+  "html_body": "<script>\nwindow.ecomShippingApps = [126334, 1253]</script>"
 }
