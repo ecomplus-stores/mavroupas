@@ -1,7 +1,7 @@
 {
   "name": "storefront-functions",
   "version": "0.1.0",
- "description": "SSR for Storefront on Firebase with Cloud Functions",
+  "description": "SSR for Storefront on Firebase with Cloud Functions",
   "engines": {
     "node": "16",
     "npm": "^8.19.4"
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ecomplus/storefront-starter.git"
